@@ -1,4 +1,7 @@
-java-maven-web-project
-======================
+1.About
 
-java-maven-web-project
+a java-maven-web-project
+
+2.Install
+
+(1)java env and maven and mysql and tomcat
